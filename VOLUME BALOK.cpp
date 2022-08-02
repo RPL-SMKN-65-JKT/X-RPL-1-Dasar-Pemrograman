@@ -2,20 +2,17 @@
 
 using namespace std;
 
-int main()
-{
-    int p;
-    int l;
-    int t;
-    int hasil;
+int main() {
 
-    cout <<"Masukan Panjang: ";
-    cin >> p;
-    cout << "Maukan Luas: ";
-    cin >> l;
-    cout << "Masukan Tinggi: ";
-    cin >> t;
-    hasil = p*l*t;
-    cout << "Hasilnya adalah: " << hasil;
-    return 0;
+int p,l,t;
+int hasil;
+cout << "Masukkan Panjang: \n";
+cin >>p;
+cout << "Masukkan Lebar: \n";
+cin >>l;
+cout << "Masukkan Tinggi \n";
+cin >>t;
+hasil = p*l*t;
+cout << "hasil adalah" << hasil << endl;
+return 0;
 }
