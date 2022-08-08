@@ -5,9 +5,9 @@ int main() {
 
 system("color a");
 printf("\tBIODATA SISWA COOL \n\n");
-printf("Nama        Muhammad Zen Alhadi\n");
-printf("Kelas      :X-RPL1\n");
-printf("Umur       :16\n");
-printf("Hobi       : memancing\n");
+printf("Nama       : Abigail Makfira Bugis Syah\n");
+printf("Kelas      : X-RPL-1\n");
+printf("Umur       : 16\n");
+printf("Hobi       : mendengarkan-musik");
 return 0;
  }
