@@ -1,0 +1,10 @@
+Program : huruf vokal
+
+kamus : 
+	cc:char
+
+Algoritma 
+    Read(cc)
+    if(cc = 'a') or (cc = 'i') or (cc = 'u') or (cc = 'e') or (cc = 'o') then
+	write ('huruf vokal')
+    end if
