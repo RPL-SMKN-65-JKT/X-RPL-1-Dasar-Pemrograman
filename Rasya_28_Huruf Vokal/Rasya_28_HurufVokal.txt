@@ -1,0 +1,18 @@
+Psedocode
+
+Program Huruf Kapital 
+
+Kamus 
+      CC Char 
+
+Algoritma 
+    
+    read(cc)
+   
+    if(cc='a')or(cc='i')or(cc='u')or(cc='e')or(cc='o')then
+   
+    write('Huruf Vokal')
+  
+  end if
+
+    

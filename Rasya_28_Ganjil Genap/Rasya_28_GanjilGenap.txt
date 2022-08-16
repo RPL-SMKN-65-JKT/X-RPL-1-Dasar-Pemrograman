@@ -1,0 +1,14 @@
+Pseudocode 
+
+Program Genap Ganjil
+
+Kamus 
+      x = integer 
+
+Algoritma 
+     read (x)
+     if x mod 2=0 Then 
+        write ('Genap')
+     else 
+        write ('Ganjil')
+     end if
