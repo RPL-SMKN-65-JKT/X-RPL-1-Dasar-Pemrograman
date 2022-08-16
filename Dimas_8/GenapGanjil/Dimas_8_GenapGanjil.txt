@@ -1,0 +1,11 @@
+Pseudecode
+Program GenapGanjil
+Kamus
+u : interger
+algoritma
+read(u)
+if u mod 2=0 then
+write('genap')
+else
+write('ganjil')
+end if

@@ -1,0 +1,12 @@
+Pseudecode
+
+program HurufVokal
+
+kamus
+ cc : char
+
+algoritma
+read(cc)
+if(cc='a')or(cc='i')or(cc='u')or(cc='e')or(cc='0') then
+write ('huruf vokal')
+end if
