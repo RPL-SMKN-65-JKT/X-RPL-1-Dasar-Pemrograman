@@ -1,0 +1,10 @@
+Program HurufVokal
+Kamus
+    cc :char
+Algoritma
+   
+    read(cc)
+    if(cc='a')or(a='i')or(cc='u')of
+     (cc='e')or(cc='o') then
+     write('huruf vokal')
+    end if
