@@ -1,0 +1,12 @@
+﻿Pseudocode
+Program GenapGanjil
+Kamus
+             × : integer
+Algoritma
+            read (×)
+            if × mad 2=0 then
+                  write ('genap')
+           else 
+                  write ('ganjil') 
+          end if
+
