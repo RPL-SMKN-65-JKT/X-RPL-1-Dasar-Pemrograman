@@ -9,8 +9,12 @@ Ini merupakan laman siswa/i X RPL 1 untuk mengupload tugas ataupun latihan.
 
 
 ## Setiap File yang diupload harus sesuai dengan format yang telah ditentukan di kelas
-Contoh: Nama_NoAbsen
+Contoh: Nama_NoAbsen_Materi
 
-## DILARANG KERAS MENYONTEK CODE TEMAN. JIKA KETAUAN, AKAN MENDAPATKAN POINT DI DALAM KPPS
+## 1X Menyontek                = Membiarkan diri untuk tidak percaya diri dengan kemampuan yang ada
+## 2x Menyontek                = Membiarkan diri untuk kehilangan kepercayaan diri 
+## 3x Menyontek dan seterusnya = Membiarkan diri untuk terbiasa mengandalkan orang lain dan semakin hilangnya rasa percaya diri
+
+## Kerjalah dengan kemampuan diri sendiri karena dengan hal itu, kita membiasakan otak kita bekerja dengan kritis
 
 SELAMAT MENGODING, SELAMAT BERBAHAGIA :))
