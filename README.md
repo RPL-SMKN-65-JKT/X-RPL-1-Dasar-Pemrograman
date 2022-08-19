@@ -15,7 +15,7 @@ Contoh: Nama_NoAbsen_Materi
 * 2x Menyontek                = Membiarkan diri untuk kehilangan kepercayaan diri 
 * 3x Menyontek dan seterusnya = Membiarkan diri untuk terbiasa mengandalkan orang lain dan semakin hilangnya rasa percaya diri
 
-## Kerjalah dengan kemampuan diri sendiri karena dengan hal itu, kita membiasakan otak kita bekerja dengan kritis
+## Kerjakanlah dengan kemampuan diri sendiri karena dengan hal itu, kita membiasakan otak kita bekerja dengan kritis
 Kurang cerdas dapat diperbaiki dengan belajar, kurang cakap dapat dihilangkan dengan pengalaman. Namun tidak jujur sulit diperbaiki.
 -Bung Hatta-
 
