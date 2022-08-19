@@ -7,15 +7,16 @@ Ini merupakan laman siswa/i X RPL 1 untuk mengupload tugas ataupun latihan.
 * [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [markdown cheat sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
-
 ## Setiap File yang diupload harus sesuai dengan format yang telah ditentukan di kelas
 Contoh: Nama_NoAbsen_Materi
 
 ## Masih jaman MENYONTEK?
 * 1X Menyontek                = Membiarkan diri untuk tidak percaya diri dengan kemampuan yang ada
 * 2x Menyontek                = Membiarkan diri untuk kehilangan kepercayaan diri 
-* 3x Menyontek dan seterusnya = Membiarkan diri untuk terbiasa mengandalkan orang lain dan semakin hilangnya rasa percaya d
+* 3x Menyontek dan seterusnya = Membiarkan diri untuk terbiasa mengandalkan orang lain dan semakin hilangnya rasa percaya diri
 
 ## Kerjalah dengan kemampuan diri sendiri karena dengan hal itu, kita membiasakan otak kita bekerja dengan kritis
+Kurang cerdas dapat diperbaiki dengan belajar, kurang cakap dapat dihilangkan dengan pengalaman. Namun tidak jujur sulit diperbaiki.
+-Bung Hatta-
 
 SELAMAT MENGODING, SELAMAT BERBAHAGIA :))
