@@ -1,0 +1,19 @@
+Pseudocode
+
+Program ganjil genap
+Rumus
+       x:integer
+Algoritma
+       read(x)
+       if x mod 2=0 then
+       write('genap')
+       else
+       write('ganjil')
+end if
+
+
+
+
+
+
+
