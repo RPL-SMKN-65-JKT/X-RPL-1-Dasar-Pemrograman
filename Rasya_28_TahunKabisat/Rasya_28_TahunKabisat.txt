@@ -1,0 +1,14 @@
+PROGRAM TahunKabisat 
+
+KAMUS 
+     tahun : Integer 
+
+ALGORITMA
+     
+     read(tahun)
+     if tahun mod 4 = 0 then
+        write('tahun kabisat')
+     else
+        write('bukan tahun kabisat')
+    
+     end if
