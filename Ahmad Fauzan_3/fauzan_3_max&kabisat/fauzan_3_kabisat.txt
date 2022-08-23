@@ -1,0 +1,10 @@
+program tahun kabisat 
+kamus 
+    tahun :integer
+algoritma
+    read (tahun)
+    if tahun mod 4 = 0 then 
+       write ('tahun kabisat')
+    else
+       write ('bukan tahun kabisat')
+    ens if
