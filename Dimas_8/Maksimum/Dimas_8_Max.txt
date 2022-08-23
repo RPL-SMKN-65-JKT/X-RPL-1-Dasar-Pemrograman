@@ -1,0 +1,11 @@
+Program Maksimum
+
+kamus
+ A,B : interger
+algoritma
+ read(A,B)
+   if A>B then
+        write("Bilangan Terbesar = "A)
+   else
+        write("Bilangan Terbesar = "B)
+   end if
