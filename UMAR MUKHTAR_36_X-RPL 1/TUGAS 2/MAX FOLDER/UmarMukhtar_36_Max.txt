@@ -1,0 +1,12 @@
+PROGRAM MAKSIMUM
+
+KAMUS
+	A,B : integer
+
+ALGORITMA
+	read (A,B)
+	if A>B
+		Write('Bilangan Terbesar = ',A)
+	else
+		Write('Bilangan Terbesar = ',B)
+	end if
