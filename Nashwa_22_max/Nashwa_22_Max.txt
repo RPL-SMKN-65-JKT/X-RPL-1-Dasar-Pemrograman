@@ -1,0 +1,12 @@
+Program maksimum
+
+kamus 
+	A,B = integer
+
+algoritma 
+	Read (A, B)
+	if A>B then
+	    write('bilangan terbesar = ' ,A)
+	else
+	    write('bilangan terbesar = ' ,B)
+	end if
