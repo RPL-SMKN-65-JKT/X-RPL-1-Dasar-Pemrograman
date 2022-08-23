@@ -1,0 +1,10 @@
+program maksimum
+kamus
+	A,B:integer
+Alogritma
+	read(A,B)
+	if A>B then
+	  write('Bilangan terbesar=',A)
+	else
+	  write('Bilangan terbesar=',B)
+	end if
