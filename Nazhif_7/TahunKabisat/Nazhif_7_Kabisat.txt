@@ -1,0 +1,12 @@
+PROGRAM TAHUNKABISAT
+
+KAMUS
+Tahun:interger
+
+ALGORITMA
+Read (tahun)
+If tahun mod 4=0 then
+Write ('tahun kabisat')
+Else 
+Write ('bukan tahun kabisat')
+End if
