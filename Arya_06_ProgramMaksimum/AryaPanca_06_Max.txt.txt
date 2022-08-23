@@ -1,0 +1,11 @@
+Progam Maksium Kamus
+
+       A,B : integer
+
+Algoritma
+       raed [A,B]
+       if A>B then
+          Write['Bilangan Tersebar=',A]
+       else
+          Write['Bilangan Tersebar=',B]
+       end if

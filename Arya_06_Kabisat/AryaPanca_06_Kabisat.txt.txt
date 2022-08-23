@@ -1,0 +1,10 @@
+Program TahunKabisat Kamus
+
+        tahun : integer
+Algoritma
+        read[tahun]
+        if tahun mod 4=0 then
+           Write['tahun kabisat']
+        else
+           Write['bukan tahun kabisat']
+        end if
