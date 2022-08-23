@@ -1,0 +1,13 @@
+PROGAM MAKSIMUM
+
+KAMUS
+A,B : interger
+
+Algoritma
+
+Read(A,B)
+If A>B then
+Write ('Bilangan Terbesar = ',A)
+Else
+Write ('Bilangan Terbesar = ',B)
+End If
