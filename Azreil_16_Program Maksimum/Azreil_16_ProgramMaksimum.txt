@@ -1,0 +1,10 @@
+Program Maksimum
+Kamus: A,B Integer
+Algoritma:
+read (A,B)
+if A > B then
+	write ('Bilangan Terbesar = ', A)
+      else
+	write ('Bilangan Terbesar = ', B)
+	
+     endif	

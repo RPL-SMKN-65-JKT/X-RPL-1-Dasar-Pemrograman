@@ -1,0 +1,10 @@
+Program Tahun Kabisat
+Kamus
+     Tahun: Integer
+Algoritma
+     Read (tahun)
+     if tahun mod 4 = 0 then
+  write ('tahun kabisat')
+ else
+  write ('bukan tahun kabisat')
+endif
