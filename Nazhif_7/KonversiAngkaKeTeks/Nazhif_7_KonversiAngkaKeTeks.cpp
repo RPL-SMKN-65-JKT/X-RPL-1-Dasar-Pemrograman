@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    char angka;
+    int angka;
 
     cout << "Input angka (1 - 4): ";
     cin >> angka;
