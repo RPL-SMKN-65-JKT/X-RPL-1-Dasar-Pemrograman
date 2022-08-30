@@ -1,0 +1,48 @@
+pseudecode
+program KonversiAngkaKeteks
+kamus
+    angka = integer
+
+algoritma
+    
+    read (angka)
+    case (angka)
+      1.write('satu')
+      2.write('dua')
+      3.write('tiga')
+      4.write('empat')
+      otherwise write ('angka yang di masukkan salah')
+ end case
+
+cpp
+#include <iostream>
+using namespace std;
+
+int main(){
+
+int angka;
+
+cout << "^^^^^^^^^^^^^^^^"<<endl;
+cout << "ketik angka satu - empat"<<endl;
+cin >> angka;
+cout << "^^^^^^^^^^^^^^^^"<<endl;
+
+    switch (angka) {
+    case 1:
+         cout << "satu";
+         break;
+    case 2:
+        cout << "dua";
+        break;
+    case 3:
+        cout << "tiga";
+        break;
+    case 4:
+        cout << "empat";
+        break;
+    default:
+        cout << "angka yang dimasukkan salah";
+
+    }
+    return 0;
+}
