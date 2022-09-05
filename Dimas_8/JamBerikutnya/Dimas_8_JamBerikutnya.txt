@@ -1,0 +1,24 @@
+JamBerikutnya
+
+kamus
+hh :interger
+mm :interger
+ss :interger
+
+Algoritma
+read (hh,mm,ss)
+if ss+1<60 then
+ ss=ss+1
+else
+ss==0
+if mm+1<60 then
+mm==mm+1
+else 
+mm==0
+if hh+1<24 then
+hh==hh+1
+else
+hh==0
+end if
+
+write(hh,mm,ss)
