@@ -1,0 +1,36 @@
+Program JamBerikutnya
+
+Kamus:
+
+	TYPE Jam : record <hh : interger, {0..59}
+			   mm : interger, {0..59}
+			   ss : interger {0..23}
+			   >
+
+J : Jam
+
+Alogirtma:
+	READ(J,hh,J.mm,J.ss) {baca jam}
+	IF J.ss + 1 < 60 THEN {OK, tidak ada masalah penambahan 1 detik}
+		J.ss <-- J.ss+1
+
+	ELSE { berarti J.ss + 1 = 60}
+		J.ss <-- { detik kembali menjadi nol, menit bertambah 1, tapi periksa dulu apakah menit + 1 < 60}
+
+	IF J.mm + 1 < 60 THEN {OK, tidak ada masalah penambahan 1 menit}
+		J.mm <-- J.mm + 1 
+
+	ELSE {berarti J.mm+1=60}
+		J.mm <-- o{menit menjadi nol, jam bertambah 1, tapi periksa dulu apakah jam + 1 < 24} 
+
+	IF J.hh + 1 < 24 THEN {OK, tidak ada masalah penambahan 1 jam}
+		J.hh <--J.hh+1
+	ELSE { berarti J.hh + 1 = 24}
+		J.hh <--0
+
+		end if
+
+	end if
+
+end if	
+	wRITE(J.hh,J.mm,J.ss) {cetak jam yang baru setelah 1 detik }
