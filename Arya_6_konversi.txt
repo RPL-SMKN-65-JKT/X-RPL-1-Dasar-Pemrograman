@@ -1,0 +1,13 @@
+Program KonversiAngkaKeTeks 
+Kamus
+	angka = integer
+
+Algoritma
+	read(angka)
+	case(angka)
+		1 = Write ('satu')
+		2 = Write ('dua')
+		3 = Write ('tiga')
+		4 = Write ('empat')
+		otherwise write ('angka yang dimasukkan salah')
+	end case
