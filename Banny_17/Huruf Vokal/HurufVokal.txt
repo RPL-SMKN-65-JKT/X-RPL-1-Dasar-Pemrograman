@@ -1,0 +1,13 @@
+PSUEDOCODE
+
+Program = Huruf \ Vokal
+
+Kamus = CC: char
+
+Algoritma
+read (cc)
+if (cc = 'a') or if (cc = 'i') or if (cc = 'u') or if (cc = 'e') or if (cc = 'o')
+
+write ('huruf vokal')
+
+end if
