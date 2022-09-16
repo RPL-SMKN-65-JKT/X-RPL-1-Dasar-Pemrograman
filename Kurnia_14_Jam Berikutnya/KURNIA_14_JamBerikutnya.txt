@@ -1,0 +1,29 @@
+Program JamBerikutnya
+{Menentukan jam berikutnya setelah jam sekarang ditambah 1 detik}
+
+DEKLARASI:
+	type jam: record<hh:integer, {0..59}
+			     mm:integer, {0..59}
+			     ss:integer  {0..23}
+			    >
+	J:jam
+
+ALGORITMA:
+	read(J.hh,J.mm,J.ss) {baca jam}
+	if J.ss+<60 then {OK,tidak ada masalah penambahan 1 detik}
+	   J.ss=J.ss+1
+	else {berarti J.ss+1=60}
+	   J.ss=J.ss 0 {detik kembali menjadi nol,menit bertambah 1,tapi periksa dulu apakah menit +1<60}
+	   if J.mm + 1<60 then{OK,tidak ada masalah penambahan 1 menit}
+		 J.mm=J.mm+1
+	   else {berarti J.mm+1=60}
+		 J.mm=0{menit menjadi nol,jam bertambah 1,tapi periksa dulu apakah jam +1<24}
+		if J.hh +1<24 then {OK,tidak ada masalah penambahan 1 jam}
+		    J.hh=J.hh+1
+		else {berarti J.hh+1=24}
+		   J.hh=0
+		end if
+	    end if
+	 end if
+	
+	 Write(J.hh,J.mm,J.ss) {cetak jam yang baru setelah 1 detik}
