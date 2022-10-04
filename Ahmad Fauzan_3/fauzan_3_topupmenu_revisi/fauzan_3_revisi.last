@@ -66,6 +66,7 @@ int main(){
 
                 }
         }
+        break;
         cout<<"How much do you want to deposite?"<<endl;
         cin>>deposite;
         cout<<"Your balance now is "<<deposite+balance<<endl;
@@ -90,6 +91,7 @@ int main(){
 
                 }
         }
+        break;
         cout<<"===================================================================================================================="<<endl;
         cout<<"[P]Pubg Rp.5k ~ Rp.1.000k"<<endl;
         cout<<"[M]Mobile legends Rp.3k ~ Rp.1.000k"<<endl;
