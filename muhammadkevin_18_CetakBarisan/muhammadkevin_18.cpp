@@ -1,14 +1,11 @@
 #include <iostream>
 using namespace std;
+      int main () {
+          int i;
+          int N;
+          cin>>N;
+          for (i=1;i<=N;i++) {
+                cout <<"i"<<endl;
+          }
+      }
 
-//Compiler version g++ 6.3.0
-
-int main(){
-    int i;
-    int n;
-    cin>>n; 
-    i=1; 
-    for(i=1;i<n;i++){
-               cout<<"helloworld"<<endl; 
-     }   
- }
