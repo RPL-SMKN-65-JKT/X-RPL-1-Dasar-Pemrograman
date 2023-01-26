@@ -1,0 +1,12 @@
+Program DeretPenjumlahan
+kamus
+  A:integer
+  I:integer
+  C:integer
+Algoritma
+  read(A)
+  C<0
+  for I<1 to I do
+  	C < C + A
+  end for
+  write(C)
