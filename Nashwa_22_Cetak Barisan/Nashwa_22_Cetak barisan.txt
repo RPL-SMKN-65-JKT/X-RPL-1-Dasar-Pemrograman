@@ -1,0 +1,9 @@
+Program Deret (menjumlahkan deret 1+2+3 .... n)
+Kamus :
+	i;Integer
+	n:integer
+algoritma 
+	read (n)
+	for i-1 to n do
+		write(i)
+	end for
