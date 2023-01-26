@@ -1,0 +1,12 @@
+Program Deret Penjumlahan 
+Kamus
+     N: integer 
+     i: integer 
+     sum: integer
+Algoritma
+         read (N)
+         sum < 0
+         for i < 1 to N do
+             sum < sum + i
+         end for
+         write(sum)
