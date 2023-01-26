@@ -1,0 +1,15 @@
+Program Deret ( Menjumlahkan Deret 1+2+3 .. + N )
+
+Kamus
+	N: int
+	X: int
+	Sum: int
+
+Algo
+
+	read(N)
+	Sum <- O
+	for i <- 1 to N do
+		Sum <- Sum + i
+	end for
+	write (Sum)

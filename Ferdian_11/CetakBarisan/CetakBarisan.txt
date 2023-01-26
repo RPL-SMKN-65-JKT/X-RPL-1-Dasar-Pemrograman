@@ -1,0 +1,11 @@
+Program Cetak Barosan
+Kamus
+	I:integer {pencacah pengulangan}
+	N:integer {jumlah pengulangan}
+
+Algotritma
+	read(N)
+	i <- 1
+	for i <- 1 to N do
+		write(i)
+	end for
