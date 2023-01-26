@@ -1,0 +1,10 @@
+Program cetak barisan
+kamus
+      i:integer
+	n:integer
+
+Algoritma
+	   read(n)
+         for i <--- 1 to N do
+			write(i)
+		end for
