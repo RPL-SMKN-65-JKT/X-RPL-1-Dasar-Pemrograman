@@ -1,0 +1,9 @@
+Program  CetakBarisan
+Kamus 
+    i: integer
+    N: integer
+Agoritma 
+    read (N)
+    for i < 1 to N do
+          write (i)
+    end for 
