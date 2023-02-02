@@ -1,0 +1,16 @@
+Program Average ( Menghitung rata rata N Buah Data Bilangan Bulat )
+
+Kamus 
+	N: integer ( Banyaknya Data )
+	X: integer ( Bil Bulat Yang Dibaca Ketik )
+	I: integer ( Banyak Pengulangan )
+	Sum: integer ( Jumlah Data )
+	AV: real ( rata rata )
+
+Algoritma 
+	read(N)
+	Sum<-0
+	i<-1
+	while i <= N do
+		read(X)
+		sum<-sum + X
