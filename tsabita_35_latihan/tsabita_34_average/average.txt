@@ -1,0 +1,23 @@
+program average {menghitung rata-rata
+			n buah data bil. bulat}
+
+kamus
+	N:integer {banyaknya data}
+	X:integer {bil. bulat yg dibaca dipapan ketik}
+	L:integer {banyak pengulangan}
+	SUM:integer {jumlah data}
+	AV:real {rata rata}
+
+alogritma
+	read (N)
+	sum <- 0
+	I<-1
+	while i<=N do
+		read (x)
+		sum <- sum + x
+I<- i+1
+end while
+{i>N}
+
+av<-sum/N
+write (av)
