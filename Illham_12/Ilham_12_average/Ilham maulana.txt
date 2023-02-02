@@ -1,0 +1,22 @@
+pseucode
+program Average {menghitung rata rata N buah data bil.Bulat}
+
+kamus
+     N:integer {banyaknya data}
+     X:integer {bil bulat yang dibaca dipapan ketik}
+     L:integer {banyak pengulangan}
+     sum:integer {jumlah data}
+     AV:real {rata rata}
+algoritma
+     read(N)
+     sum<---0
+     l<---l
+     while i < N do
+     read(x)
+     sum<---sum + x
+     i<----i+l
+     end while
+     {i>N}
+
+     av<---sum/N
+     write(av)
