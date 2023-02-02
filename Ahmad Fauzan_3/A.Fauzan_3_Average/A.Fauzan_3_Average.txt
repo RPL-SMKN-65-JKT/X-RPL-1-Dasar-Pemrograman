@@ -1,0 +1,14 @@
+Program average(menghitung rata2 N buah data bil.bulat)
+Kamus
+	N=integer(banyak data)
+	X=integer(bil.bulat yg dibaca dipapan ketik)
+	I=integer(baynak pengulangan)
+	sum=(jumlah data)
+	av=real(rata2)
+Algoritma
+	read(N)
+	sum < 0
+	i < 1
+	while i <= N do
+		read(X)
+		sum < sum + X
