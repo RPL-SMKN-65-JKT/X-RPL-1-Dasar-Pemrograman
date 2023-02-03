@@ -1,0 +1,22 @@
+Program Average
+	  N Buah data bil bulat
+
+Kamus
+	N : Integer (banyak data)
+	X : Integer (bil bulat yg dibaca di papan ketik)
+	sum : Integer (jumlah data)
+	av : Real (rata2)
+
+Algoritma
+	read (N)
+	sum<--0
+	i<--1
+	while i <= N do
+	  read(x)
+	  sum<--sum + x
+	i<--i+1
+   end while
+	{i > N}
+
+	av<--sum/N
+	while(av)
