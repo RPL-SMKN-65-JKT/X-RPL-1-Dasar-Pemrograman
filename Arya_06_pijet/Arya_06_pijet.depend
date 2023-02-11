@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676125433 source:c:\users\hp\onedrive\documents\latihan_c++\arya_06_pijet\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
