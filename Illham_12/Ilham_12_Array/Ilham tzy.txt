@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace;
+
+integer main(){
+	system("color"); untuk menambahkan hiasan warna biar tidak polos pada tulisannya
+	integer jumlah_arr; untuk menjumlahkan dari 5 nilai angka 
+	integer angka[] = {masukkan nilai sesuai yang diinginkan}; lalu berikan koma pada setiap nilai
+	
+	jumlah_arr = sizeof(angka)/sizeof(*angka);
+     (memberikan jumlah penyimpanan, dalam byte, yang diperlukan untuk menyimpan objek dari jenis operand)
+
+	cout<<jumlah_arr;
+	arr(array)
+}
