@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){ 
-    int jml_arr; //inisialisasi
+    int jml_arr; //inisialisasi atau isi tipedata
     string nama[] = { "Budi","Asep","Koh Aheng","Sakmadik","Marimas","Jokowi","Megawati" }; //array string berisikan nama-nama
     jml_arr = sizeof(nama)/sizeof(*nama);
 
