@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){ //fungsi utama dari suatu program
+int main(){ 
     int jml_arr; //inisialisasi
     string nama[] = { "Budi","Asep","Koh Aheng","Sakmadik","Marimas","Jokowi","Megawati" }; //array string berisikan nama-nama
     jml_arr = sizeof(nama)/sizeof(*nama);
