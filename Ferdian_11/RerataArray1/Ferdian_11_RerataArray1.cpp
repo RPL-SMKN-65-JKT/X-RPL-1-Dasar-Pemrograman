@@ -4,8 +4,8 @@ using namespace std;
 int main()                                                      //fungsi utama dari suatu program
 {
     system ("color B0");                                        //mengeluarkan suatu komponen
-  int arr[100],n;                                               //"arr[100]"digunakan untuk batas penyimpanan tersebut
-  float average, jumlah = 0;                                    //float digunakaan untuk menampilkan bilangan pecahan
+  int arr[100],n;                                               //"arr[100]"digunakan untuk batas penyimpanan tersebut dan inisialisasi/typedata
+  float average, jumlah = 0;                                    //float digunakaan untuk menampilkan bilangan pecahan dan inisialisasi
 
   cout << "Element Array: ";                                    //"cout" digunakan untuk output text
   cin >> n;                                                     //"cin" digunakan untuk menginput text
