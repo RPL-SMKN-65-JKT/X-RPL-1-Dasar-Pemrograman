@@ -1,0 +1,16 @@
+Nama anggota kelompok 3:1.Ilham maulana
+			    2.Muhammad albagir alattas
+			    3.Nashwa Ayesha	
+
+
+                                              		 "perbedaan function dan procedure"
+
+1.Procedure adalah sebuah sistem yang dapat menjalankan perintah dan sistem ini dapat digunakam lebih dari satu kali penggunaan.
+
+Sedangkan Function adalah sebuah statement yang akan mengembalikan nilai kepada pengguna yang menginput data atau sebagai pemanggil.
+
+2.Function akan mengembalikan nilai pada pengguna (pemanggil) sedangkan Procedure tidak bisa mengembalikan nilai tersebut pada pengguna.
+
+3.nilai pada Function dapat dikonversikan dalam bentuk variable, sedangkan Procedure tidak dapat dikonversikan nilainya.
+
+4.Procedure dapat digunakan tanpa membutuhkan parameter, sedangkan Function justru sebaliknya, ia membutuhkan sebuah parameter
