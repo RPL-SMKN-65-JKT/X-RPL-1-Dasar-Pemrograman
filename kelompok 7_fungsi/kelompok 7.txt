@@ -1,0 +1,17 @@
+kelas : X-RPL 1
+kelompok 7
+-Abigail Makfira
+-Siti Humairo
+-Tsabita nasyatatia
+
+Pengertian Prosedur: adalah bagian dari suatu program yang disusun secara terpisah untuk melakukan suatu tugas khusus atau fungsi tertentu. 
+
+Pengertian Fungsi : Fungsi sama seperti halnya dengan prosedur, namun tetap ada perbedaannya yaitu fungsi mempunyai output dengan tipe variabel yang kita tentukan.
+
+Perbedaan Prosedur dengan Function
+
+Return Value: Function mengembalikan nilai ke pemanggilnya, sedangkan Procedure tidak mengembalikan nilai apapun.
+
+Deklarasi: Prosedur dideklarasikan dengan menggunakan kata kunci procedure, sementara fungsi dideklarasikan dengan menggunakan kata kunci function.
+
+Argumen: Kedua subprogram dapat menerima argumen atau parameter, tetapi fungsi membutuhkan setidaknya satu argumen, sedangkan prosedur dapat tidak menerima argumen sama sekali.
