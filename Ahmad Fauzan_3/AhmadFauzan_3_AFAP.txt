@@ -1,0 +1,7 @@
+Tiga perbedaan antara prosedur dan fungsi C++:
+
+Fungsi mengembalikan nilai, sedangkan prosedur tidak mengembalikan nilai.
+
+Fungsi dapat digunakan di dalam perhitungan matematis dan melakukan pengembalian nilai dengan memodifikasi variabel, sedangkan prosedur mungkin tidak bisa.
+
+Fungsi harus punya tipe data pengembalian, sedangkan prosedur tidak perlu tipe data pengembalian karena tidak mengembalikan nilai apapun.
