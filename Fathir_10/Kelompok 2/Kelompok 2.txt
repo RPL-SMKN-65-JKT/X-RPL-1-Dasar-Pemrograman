@@ -1,0 +1,12 @@
+Kelompok 2 :1.Fatir
+		2.Abdillah
+		3.Reza
+		4.Kevin 
+
+
+						"Perbedaan Function dan Procedure"
+
+Function akan mengembalikan nilai pada pengguna (pemanggil), 
+sedangkan Procedure tidak bisa mengembalikan nilai tersebut pada pengguna. 
+Selain itu, Procedure dapat digunakan tanpa membutuhkan parameter, 
+sedangkan Function justru sebaliknya, ia membutuhkan sebuah parameter
