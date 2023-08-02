@@ -1,0 +1,9 @@
+a {
+    color: black;
+    text-decoration: none;
+    font-family: italic;
+  }
+  
+  a:first-of-type {
+    background-color: red;
+  }
