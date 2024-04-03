@@ -1,0 +1,769 @@
+body {
+    font-family: Helvetica, sans-serif;
+
+}
+
+//navbar
+.navbar {
+    top: 0px;
+    z-index: 1;
+
+    .navbar-brand {
+        img {
+            width: 100px;
+        }
+    }
+
+    .navbar-nav {
+        .nav-link {
+            color: #000;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 20px;
+            padding: 8px 12px;
+        }
+    }
+}
+
+.btn-register {
+    background-color: #5CB85F;
+    border: none;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 8px 12px;
+    border-radius: 2px;
+
+    &:hover {
+        background-color: #135e14;
+    }
+}
+
+// header
+header {
+    height: 540px;
+    background-color: #F1F3FF;
+    margin-top: -100px;
+    position: relative;
+    z-index: 0;
+
+    .left-content {
+        margin-top: 177px;
+
+        h1 {
+            font-weight: bold;
+            font-size: 36px;
+            line-height: 150%;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 20px;
+            margin-top: 16px;
+            bottom: 16px;
+        }
+
+        .btn-mulai-sewa {
+            background-color: #5CB85F;
+            color: #fff;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 8px 12px;
+            border-radius: 2px;
+
+            &:hover {
+                background-color: #135e14 !important;
+            }
+        }
+    }
+
+    .right-content {
+
+        .bg-hero {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 704px;
+            height: 243px;
+
+        }
+
+        .mercy {
+            position: absolute;
+            bottom: 0;
+            right: 8px;
+            width: 704px;
+            height: 407px;
+        }
+    }
+
+}
+
+// Our Services
+.our-service {
+    margin-top: 104px;
+
+    .desc-service {
+        h2 {
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 36px;
+            margin-bottom: 24px;
+        }
+
+        .main-desc {
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 20px;
+            margin-bottom: 16px;
+        }
+
+        .desc-list {
+            font-weight: 300;
+            font-size: 14px;
+        }
+    }
+}
+
+// Why Us
+.why-us-header {
+    margin-top: 100px;
+
+    h2 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .why-title {
+        margin-bottom: -20px;
+    }
+
+    .why-us-content {
+        margin-top: 40px;
+
+        .why-us-card {
+            border: 1px solid #D0D0D0;
+            box-sizing: border-box;
+            border-radius: 8px;
+            padding: 24px;
+            width: 292px;
+            height: 196px;
+            margin-top: 10px;
+
+            img {
+                width: 32px;
+                height: 32px;
+            }
+
+            h3 {
+                margin: 16px 0;
+                font-weight: bold;
+                font-size: 16px;
+                line-height: 24px;
+            }
+
+            p {
+                font-weight: 300;
+                font-size: 14px;
+                line-height: 20px;
+            }
+        }
+
+    }
+
+}
+
+// Content blue
+.content-blue-desc {
+    background-color: #0D28A6;
+    width: 1298px;
+    height: 326px;
+    margin-top: 156px;
+    border-radius: 13px;
+
+    h1 {
+        margin-top: 64px;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 150%;
+        color: #fff;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 16px;
+        color: #fff;
+    }
+
+    .btn-mulai-sewa {
+        background-color: #5CB85F;
+        color: #fff;
+        font-size: 14px;
+        padding: 8px 12px;
+        border-radius: 2px;
+        margin-top: 52px;
+
+        &:hover {
+            background-color: #135e14 !important;
+        }
+    }
+
+}
+
+// testimony
+.title-testy {
+    margin-top: 104px;
+    margin-bottom: 40px;
+
+    h2 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+.owl-carousel {
+    .item-testy {
+        background: #F1F3FF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 8px;
+        width: 619px;
+        height: 270px;
+        padding: 69px 32px;
+
+
+        .pic-testy {
+
+            img {
+                width: 80px;
+                height: 80px;
+            }
+        }
+
+        .desc-testy {
+            img {
+                width: 80px;
+                height: 16px;
+            }
+
+            p {
+                margin: 8px 0;
+                font-weight: 300;
+                font-size: 14px;
+                line-height: 20px;
+            }
+        }
+    }
+
+    .owl-nav {
+
+        .owl-next {
+            margin: 24px 0 0 24px;
+            width: 32px;
+            height: 32px;
+            border-radius: 100%;
+            background-color: #5CB85F !important;
+
+            &:hover {
+                background-color: #135e14 !important;
+            }
+        }
+
+        .owl-prev {
+            margin: 24px 0 0 24px;
+            width: 32px;
+            height: 32px;
+            border-radius: 100%;
+            background-color: #FFFFFF !important;
+            border: 1px solid #C4C4C4 !important;
+
+            &:hover {
+                background-color: #c7c7c7 !important;
+            }
+
+        }
+
+
+
+    }
+
+}
+
+// FAQ
+.faq {
+    margin-top: 104px;
+
+    .title-faq {
+        h2 {
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 36px;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 20px;
+        }
+    }
+
+    .item-faq {
+        .accordion {
+            .accordion-item {
+                .accordion-header {
+                    button {
+                        font-weight: 300;
+                        font-size: 14px;
+                        line-height: 20px;
+                    }
+                }
+
+                .accordion-collapse {
+                    .accordion-body {
+                        font-weight: 300;
+                        font-size: 14px;
+                        line-height: 20px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Footer
+.footer {
+    margin-top: 150px;
+
+    .addres,
+    .navigation,
+    .copyright {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+
+        img {
+            width: 100px;
+        }
+    }
+
+    .sosmed {
+        p {
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+        .icon-sosmed {
+            img {
+                width: 32px;
+                height: 32px;
+                margin-right: 16px;
+            }
+        }
+    }
+}
+
+// laptop and desktop
+@media only screen and(max-width: 1200px) {
+
+    // Header
+    header {
+        height: 600px;
+        margin-top: -100px;
+
+        .left-content {
+            h1 {
+                font-weight: bold;
+                font-size: 34px;
+                line-height: 150%;
+            }
+
+            p {
+                font-weight: 300;
+                font-size: 12px;
+                line-height: 20px;
+                margin-top: 16px;
+                bottom: 16px;
+            }
+        }
+
+        .right-content {
+            .bg-hero {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                width: 62%;
+                height: 36%;
+
+            }
+
+            .mercy {
+                position: absolute;
+                right: 4px;
+                bottom: -14px;
+                width: 62%;
+                height: 60%;
+            }
+        }
+    }
+
+    // Why Us
+    .why-us-header {
+        .why-us-content {
+            .why-us-card {   
+            }
+        }
+    }
+}
+
+// Landscape tablet and laptop
+@media only screen and (max-width: 992px) {
+
+    // Navbar
+    .navbar {
+        .navbar-brand {
+            img {
+                width: 140px;
+                margin-left: -20px;
+            }
+        }
+
+        .navbar-nav .nav-link {
+            color: #000;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 20px;
+            padding: 8px 12px;
+            margin-left: -20px;
+        }
+
+        .btn-register {
+            width: 100%;
+        }
+    }
+
+    // Header
+    header {
+        height: 1100px;
+        margin-top: -320px;
+
+        .left-content {
+            margin-top: 500px;
+
+            h1 {
+                margin-top: -120px;
+                font-size: 36px;
+            }
+
+            p {
+                font-size: 18px;
+                line-height: 24px;
+            }
+
+        }
+
+        .right-content {
+            margin-top: 180px;
+
+            .bg-hero {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                width: 96%;
+                height: 24%;
+
+            }
+
+            .mercy {
+                position: absolute;
+                right: 4px;
+                bottom: -14px;
+                width: 96%;
+                height: 40%;
+            }
+        }
+    }
+
+    // Our Service
+    .our-service {
+        .img-service {
+            img {
+                margin-bottom: 50px;
+            }
+        }
+    }
+
+    // Testimony
+    .owl-carousel {
+        .item-testy {
+            width: 80%;
+            height: 300px;
+            padding: 30px 40px;
+
+            .pic-testy {
+                width: 100%;
+            }
+        }
+    }
+
+
+
+}
+
+// Potrait tablet and large phone
+@media only screen and(max-width: 768px) {
+
+    // Navbar
+    .navbar {
+        .navbar-brand {
+            img {
+                width: 140px;
+                margin-left: -20px;
+            }
+        }
+
+        .navbar-nav .nav-link {
+            color: #000;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 20px;
+            padding: 8px 12px;
+            margin-left: -20px;
+        }
+
+        .btn-register {
+            width: 100%;
+        }
+    }
+
+    // Header
+    header {
+        height: 1220px;
+        margin-top: -420px;
+        position: relative;
+
+        .left-content {
+            margin-top: 600px;
+
+            h1 {
+                margin-top: -140px;
+            }
+
+            p {
+                font-size: 16px;
+                line-height: 24px;
+            }
+        }
+
+        .right-content {
+            margin-top: 200px;
+
+            .bg-hero {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                width: 96%;
+                height: 22%;
+
+            }
+
+            .mercy {
+                position: absolute;
+                right: 4px;
+                bottom: -14px;
+                width: 96%;
+                height: 38%;
+            }
+        }
+    }
+
+
+    // Why-us
+    .why-us-header {
+        .why-us-content {
+            .why-us-card {
+                width: 35%;
+            }
+        }
+    }
+
+    // Testimony
+    .owl-carousel {
+        .item-testy {
+            width: 92%;
+            height: 300px;
+            padding: 30px 40px;
+
+            .pic-testy {
+                width: 100%;
+            }
+        }
+    }
+
+    // Content blue
+    .content-blue-desc {
+        background-color: #0D28A6;
+        width: 1298px;
+        height: 360px;
+        margin-top: 156px;
+        border-radius: 13px;
+
+    }
+
+    .footer {
+        margin-top: 150px;
+
+        .addres,
+        .navigation,
+        .sosmed {
+            margin-bottom: 22px;
+        }
+
+        .copyright {
+            margin-top: 0px;
+        }
+
+    }
+}
+
+// Phone
+@media only screen and(max-width: 576px) {
+
+    // Navbar
+    .navbar {
+        .navbar-brand {
+            img {
+                margin-left: -20px;
+                margin-top: 10px;
+            }
+        }
+
+        .navbar-nav .nav-link {
+            color: #000;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 20px;
+            padding: 8px 12px;
+            margin-left: -20px;
+        }
+
+        .btn-register {
+            width: 100%;
+        }
+    }
+
+    // Header
+    header {
+        height: 660px;
+        margin-top: 0px;
+        position: relative;
+
+        .left-content {
+            h1 {
+                margin-top: -580px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+        }
+
+        .right-content {
+            margin-top: 100px;
+
+            .bg-hero {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                width: 100%;
+                height: 24%;
+
+            }
+
+            .mercy {
+                position: absolute;
+                right: 4px;
+                bottom: -14px;
+                width: 100%;
+                height: 38%;
+            }
+        }
+    }
+
+
+    // Our Service
+    .our-service {
+        .img-service {
+            img {
+                margin-bottom: 40px;
+            }
+        }
+    }
+
+    // Why-us
+    .why-us-header {
+        .why-us-content {
+            .why-us-card {
+                width: 292px;
+                height: 196px;
+            }
+        }
+    }
+
+    // Testimony
+    .owl-carousel {
+        .item-testy {
+            width: 100%;
+            height: 300px;
+            padding: 30px 10px;
+
+            .pic-testy {
+                width: 100%;
+            }
+        }
+    }
+
+    // content blue
+    .content-blue-desc {
+        background-color: #0D28A6;
+        width: 95%;
+        height: 460px;
+        margin-top: 156px;
+        border-radius: 13px;
+
+    }
+
+
+
+    // footer
+    .footer {
+        margin-top: 150px;
+
+        .addres,
+        .navigation,
+        .sosmed {
+            margin-bottom: 22px;
+        }
+
+        .copyright {
+            margin-top: 22px;
+        }
+
+    }
+}

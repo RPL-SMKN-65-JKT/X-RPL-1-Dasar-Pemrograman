@@ -1,0 +1,582 @@
+body {
+    font-family: Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    top: 0px;
+    z-index: 1;
+  }
+  
+  .navbar .navbar-brand img {
+    width: 100px;
+  }
+  
+  .navbar .navbar-nav .nav-link {
+    color: #000;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    padding: 8px 12px;
+  }
+  
+  .btn-register {
+    background-color: #5CB85F;
+    border: none;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 8px 12px;
+    border-radius: 2px;
+  }
+  
+  .btn-register:hover {
+    background-color: #135e14;
+  }
+  
+  header {
+    height: 540px;
+    background-color: #F1F3FF;
+    margin-top: -100px;
+    position: relative;
+    z-index: 0;
+  }
+  
+  header .left-content {
+    margin-top: 177px;
+  }
+  
+  header .left-content h1 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+  }
+  
+  header .left-content p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    bottom: 16px;
+  }
+  
+  header .left-content .btn-mulai-sewa {
+    background-color: #5CB85F;
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 8px 12px;
+    border-radius: 2px;
+  }
+  
+  header .left-content .btn-mulai-sewa:hover {
+    background-color: #135e14 !important;
+  }
+  
+  header .right-content .bg-hero {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 704px;
+    height: 243px;
+  }
+  
+  header .right-content .mercy {
+    position: absolute;
+    bottom: 0;
+    right: 8px;
+    width: 704px;
+    height: 407px;
+  }
+  
+  .our-service {
+    margin-top: 104px;
+  }
+  
+  .our-service .desc-service h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 24px;
+  }
+  
+  .our-service .desc-service .main-desc {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .our-service .desc-service .desc-list {
+    font-weight: 300;
+    font-size: 14px;
+  }
+  
+  .why-us-header {
+    margin-top: 100px;
+  }
+  
+  .why-us-header h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .why-us-header p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .why-us-header .why-title {
+    margin-bottom: -20px;
+  }
+  
+  .why-us-header .why-us-content {
+    margin-top: 40px;
+  }
+  
+  .why-us-header .why-us-content .why-us-card {
+    border: 1px solid #D0D0D0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    border-radius: 8px;
+    padding: 24px;
+    width: 292px;
+    height: 196px;
+    margin-top: 10px;
+  }
+  
+  .why-us-header .why-us-content .why-us-card img {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .why-us-header .why-us-content .why-us-card h3 {
+    margin: 16px 0;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .why-us-header .why-us-content .why-us-card p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .content-blue-desc {
+    background-color: #0D28A6;
+    width: 1298px;
+    height: 326px;
+    margin-top: 156px;
+    border-radius: 13px;
+  }
+  
+  .content-blue-desc h1 {
+    margin-top: 64px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+    color: #fff;
+  }
+  
+  .content-blue-desc p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    color: #fff;
+  }
+  
+  .content-blue-desc .btn-mulai-sewa {
+    background-color: #5CB85F;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 2px;
+    margin-top: 52px;
+  }
+  
+  .content-blue-desc .btn-mulai-sewa:hover {
+    background-color: #135e14 !important;
+  }
+  
+  .title-testy {
+    margin-top: 104px;
+    margin-bottom: 40px;
+  }
+  
+  .title-testy h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .title-testy p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .owl-carousel .item-testy {
+    background: #F1F3FF;
+    -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+            box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    width: 619px;
+    height: 270px;
+    padding: 69px 32px;
+  }
+  
+  .owl-carousel .item-testy .pic-testy img {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .owl-carousel .item-testy .desc-testy img {
+    width: 80px;
+    height: 16px;
+  }
+  
+  .owl-carousel .item-testy .desc-testy p {
+    margin: 8px 0;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .owl-carousel .owl-nav .owl-next {
+    margin: 24px 0 0 24px;
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    background-color: #5CB85F !important;
+  }
+  
+  .owl-carousel .owl-nav .owl-next:hover {
+    background-color: #135e14 !important;
+  }
+  
+  .owl-carousel .owl-nav .owl-prev {
+    margin: 24px 0 0 24px;
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    background-color: #FFFFFF !important;
+    border: 1px solid #C4C4C4 !important;
+  }
+  
+  .owl-carousel .owl-nav .owl-prev:hover {
+    background-color: #c7c7c7 !important;
+  }
+  
+  .faq {
+    margin-top: 104px;
+  }
+  
+  .faq .title-faq h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .faq .title-faq p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .faq .item-faq .accordion .accordion-item .accordion-header button {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .faq .item-faq .accordion .accordion-item .accordion-collapse .accordion-body {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .footer {
+    margin-top: 150px;
+  }
+  
+  .footer .addres,
+  .footer .navigation,
+  .footer .copyright {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .footer .addres img,
+  .footer .navigation img,
+  .footer .copyright img {
+    width: 100px;
+  }
+  
+  .footer .sosmed p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .footer .sosmed .icon-sosmed img {
+    width: 32px;
+    height: 32px;
+    margin-right: 16px;
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    header {
+      height: 600px;
+      margin-top: -100px;
+    }
+    header .left-content h1 {
+      font-weight: bold;
+      font-size: 34px;
+      line-height: 150%;
+    }
+    header .left-content p {
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 20px;
+      margin-top: 16px;
+      bottom: 16px;
+    }
+    header .right-content .bg-hero {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 62%;
+      height: 36%;
+    }
+    header .right-content .mercy {
+      position: absolute;
+      right: 4px;
+      bottom: -14px;
+      width: 62%;
+      height: 60%;
+    }
+  }
+  
+  @media only screen and (max-width: 992px) {
+    .navbar .navbar-brand img {
+      width: 140px;
+      margin-left: -20px;
+    }
+    .navbar .navbar-nav .nav-link {
+      color: #000;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 20px;
+      padding: 8px 12px;
+      margin-left: -20px;
+    }
+    .navbar .btn-register {
+      width: 100%;
+    }
+    header {
+      height: 1100px;
+      margin-top: -320px;
+    }
+    header .left-content {
+      margin-top: 500px;
+    }
+    header .left-content h1 {
+      margin-top: -120px;
+      font-size: 36px;
+    }
+    header .left-content p {
+      font-size: 18px;
+      line-height: 24px;
+    }
+    header .right-content {
+      margin-top: 180px;
+    }
+    header .right-content .bg-hero {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 96%;
+      height: 24%;
+    }
+    header .right-content .mercy {
+      position: absolute;
+      right: 4px;
+      bottom: -14px;
+      width: 96%;
+      height: 40%;
+    }
+    .our-service .img-service img {
+      margin-bottom: 50px;
+    }
+    .owl-carousel .item-testy {
+      width: 80%;
+      height: 300px;
+      padding: 30px 40px;
+    }
+    .owl-carousel .item-testy .pic-testy {
+      width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .navbar .navbar-brand img {
+      width: 140px;
+      margin-left: -20px;
+    }
+    .navbar .navbar-nav .nav-link {
+      color: #000;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 20px;
+      padding: 8px 12px;
+      margin-left: -20px;
+    }
+    .navbar .btn-register {
+      width: 100%;
+    }
+    header {
+      height: 1220px;
+      margin-top: -420px;
+      position: relative;
+    }
+    header .left-content {
+      margin-top: 600px;
+    }
+    header .left-content h1 {
+      margin-top: -140px;
+    }
+    header .left-content p {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    header .right-content {
+      margin-top: 200px;
+    }
+    header .right-content .bg-hero {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 96%;
+      height: 22%;
+    }
+    header .right-content .mercy {
+      position: absolute;
+      right: 4px;
+      bottom: -14px;
+      width: 96%;
+      height: 38%;
+    }
+    .why-us-header .why-us-content .why-us-card {
+      width: 35%;
+    }
+    .owl-carousel .item-testy {
+      width: 92%;
+      height: 300px;
+      padding: 30px 40px;
+    }
+    .owl-carousel .item-testy .pic-testy {
+      width: 100%;
+    }
+    .content-blue-desc {
+      background-color: #0D28A6;
+      width: 1298px;
+      height: 360px;
+      margin-top: 156px;
+      border-radius: 13px;
+    }
+    .footer {
+      margin-top: 150px;
+    }
+    .footer .addres,
+    .footer .navigation,
+    .footer .sosmed {
+      margin-bottom: 22px;
+    }
+    .footer .copyright {
+      margin-top: 0px;
+    }
+  }
+  
+  @media only screen and (max-width: 576px) {
+    .navbar .navbar-brand img {
+      margin-left: -20px;
+      margin-top: 10px;
+    }
+    .navbar .navbar-nav .nav-link {
+      color: #000;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 20px;
+      padding: 8px 12px;
+      margin-left: -20px;
+    }
+    .navbar .btn-register {
+      width: 100%;
+    }
+    header {
+      height: 660px;
+      margin-top: 0px;
+      position: relative;
+    }
+    header .left-content h1 {
+      margin-top: -580px;
+    }
+    header .left-content p {
+      font-size: 14px;
+    }
+    header .right-content {
+      margin-top: 100px;
+    }
+    header .right-content .bg-hero {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 24%;
+    }
+    header .right-content .mercy {
+      position: absolute;
+      right: 4px;
+      bottom: -14px;
+      width: 100%;
+      height: 38%;
+    }
+    .our-service .img-service img {
+      margin-bottom: 40px;
+    }
+    .why-us-header .why-us-content .why-us-card {
+      width: 292px;
+      height: 196px;
+    }
+    .owl-carousel .item-testy {
+      width: 100%;
+      height: 300px;
+      padding: 30px 10px;
+    }
+    .owl-carousel .item-testy .pic-testy {
+      width: 100%;
+    }
+    .content-blue-desc {
+      background-color: #0D28A6;
+      width: 95%;
+      height: 460px;
+      margin-top: 156px;
+      border-radius: 13px;
+    }
+    .footer {
+      margin-top: 150px;
+    }
+    .footer .addres,
+    .footer .navigation,
+    .footer .sosmed {
+      margin-bottom: 22px;
+    }
+    .footer .copyright {
+      margin-top: 22px;
+    }
+  }
+  /*# sourceMappingURL=style.css.map */
