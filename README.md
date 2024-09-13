@@ -8,7 +8,7 @@ Ini merupakan laman siswa/i X RPL 1 untuk mengupload tugas ataupun latihan.
 * [markdown cheat sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
 ## Setiap File yang diupload harus sesuai dengan format yang telah ditentukan di kelas
-Contoh: Nama_NoAbsen_Materi
+Contoh: Nama_NoAbsen_Mater
 
 ## Masih jaman MENYONTEK?
 * 1X Menyontek                = Membiarkan diri untuk tidak percaya diri dengan kemampuan yang ada
